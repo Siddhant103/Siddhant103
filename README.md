@@ -45,7 +45,7 @@ I'm Siddhant Patel, an experienced software engineer passionate about crafting e
 <a href="https://auth.geeksforgeeks.org/user/siddhant%20patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="Siddhant103" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/Siddhant_103" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Siddhant_103" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@siddhantpatel103" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="siddhantpatel103" height="30" width="40" /></a>
-
+<a href="https://www.codingninjas.com/studio/profile/9949b670-b553-4966-ba81-5441390ebfee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="siddhantpatel103" height="30" width="40" /></a>
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Siddhant103/count.svg" />
